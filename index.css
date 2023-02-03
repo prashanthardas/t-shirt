@@ -28,7 +28,10 @@ h1 {
 .fa-solid {
   font-size: 50px;
   margin-left: 50%;
+  cursor: pointer;
+  
 }
 .fa-solid:hover{
   color: blue;
+  text-shadow: 5px 5px lightsteelblue;
 }
