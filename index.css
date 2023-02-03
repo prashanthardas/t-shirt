@@ -27,6 +27,8 @@ h1 {
 }
 .fa-solid {
   font-size: 50px;
-
   margin-left: 50%;
+}
+.fa-solid:hover{
+  color: blue;
 }
